@@ -21,6 +21,6 @@
 ![img](ss/version.png)
 
 * Menampilkan List Yang Terinstal
-![img](ss/pip%20list.png)
+![img](ss/baru.png)
 
 ##### Sekian yang bisa saya sampaikan,mohon maaf bila ada kekurangan.Wassalamualaikum Warahmatullahi Wabarakatuh.
